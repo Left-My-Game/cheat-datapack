@@ -6,6 +6,7 @@ This website and the datapack is completley opensource, and allows players to ch
 
 Features:
 Overpowered kit "/trigger kit"
+
 Overpowered villager "/trigger destruction"
 Creative mode "/trigger creative"
 Survival mode "/trigger survival"
